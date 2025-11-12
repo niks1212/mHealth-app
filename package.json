@@ -1,0 +1,15 @@
+{
+  "name": "mhealth-aws-project",
+  "version": "1.0.0",
+  "description": "This repository contains a minimal but working skeleton for a cloud-backed mobile health (mHealth) app. It includes: - `backend/` : AWS Lambda handlers (Node.js) for saving & retrieving health data + sending reminders. - `frontend/`: Expo React Native app (skeleton) with screens to input and view health data. - `README.md`: This file.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^54.0.23"
+  }
+}
