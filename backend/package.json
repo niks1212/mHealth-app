@@ -1,0 +1,10 @@
+{
+  "name": "mhealth-backend",
+  "version": "1.0.0",
+  "description": "Lambda handlers for mHealth app (DynamoDB + SNS)",
+  "main": "saveHealthData.js",
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.1350.0"
+  }
+}
